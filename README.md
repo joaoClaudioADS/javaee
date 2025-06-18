@@ -16,7 +16,7 @@ Este é um sistema Web desenvolvido em **Java** para gerenciamento de uma **Agen
 - **Java** (Servlet API)
 - **Apache Tomcat** (Servidor de Aplicações)
 - **JDBC** (Conexão com banco de dados)
-- **MySQL ou SQL Server** (Banco de Dados relacional)
+- **MySQL** (Banco de Dados relacional)
 - **HTML5**
 - **CSS3**
 - **JavaScript**
