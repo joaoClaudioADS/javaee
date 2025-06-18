@@ -1,4 +1,4 @@
-# javaee
+# javaee Agenda de contatos
 java-WEB-Agenda de contatos
 
 Este é um sistema Web desenvolvido em **Java** para gerenciamento de uma **Agenda de Contatos**, permitindo **cadastro, edição, exclusão e listagem** de contatos, além da geração de **relatórios em PDF**. O sistema utiliza **Servlets**, **JDBC**, **HTML/CSS/JavaScript** e foi implantado em um **servidor Tomcat**.
